@@ -70,15 +70,13 @@ body {
   text-align: center;
   padding-top:80px;
   color: white;
+}
 
+.h{
   background-image: url('libasse1.png');
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
-
-
- 
-}
+  background-position: center;}
 
 #accueil{
   padding-top: 50px;
@@ -246,6 +244,14 @@ body {
 }
 
 
+
+
+
+
+#ima{
+  width: 100%;
+  height: auto;
+}
 
 
 
